@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>View PDF</title>
+    <!-- Include PDF.js library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.8.335/pdf.min.js"></script>
+</head>
+<body>
+    <h1>View PDF</h1>
+    <div>
+        <!-- Embed the PDF viewer -->
+        <iframe src="{{ download_url }}" width="100%" height="600px"></iframe>
+    </div>
+</body>
+</html>

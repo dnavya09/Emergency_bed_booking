@@ -1,0 +1,32 @@
+{% extends "navbar.html" %}
+{% block title %} File Upload {% endblock title %}
+{% block body %}
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div class="container mt-4">
+  <div class="display-4 text-center text-info">Upload File</div>
+  <br />
+  <div class="row">
+    <div class="col-md-6 offset-md-3">
+      <div class="card">
+        {% include "message.html" %}
+        <h4 class="text-center text-success">Upload any Reports if present</h4>
+        <div class="card-body bg-light">
+          <form action="/upload" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+              <input type="file" class="form-control-file" name="file" id="file" required>
+            </div>
+            <br />
+            <button class="btn btn-info" type="submit">Upload</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock body %}
