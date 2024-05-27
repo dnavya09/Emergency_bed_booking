@@ -1,0 +1,327 @@
+[
+    {
+      "disease": "Urinary tract infection (UTI)",
+      "treatment_options": "Antibiotics are the mainstay of treatment. The specific type and duration will depend on the severity of the infection. In some cases, additional medications may be needed to manage pain or burning with urination.",
+      "post_admission_care": "Drink plenty of fluids to flush out bacteria. You may be instructed to urinate frequently. Pain medication can be used to manage discomfort. Monitor for signs of recurrence like burning urination, fever, or flank pain.",
+      "recommended_bedtype": "Normal bed"
+    },
+    {
+      "disease": "Gastrointestinal (GI) issues",
+      "treatment_options": "Treatment varies depending on the specific issue. It may involve medications, dietary changes, or lifestyle modifications. In some cases, surgery may be necessary.",
+      "post_admission_care": "Follow specific dietary instructions as provided by your doctor. Maintain adequate hydration. Monitor for any worsening of symptoms and report them to your doctor.",
+      "recommended_bedtype": "Normal bed"
+    },
+    {
+      "disease": "Diabetes",
+      "treatment_options": "Treatment focuses on managing blood sugar levels through diet, exercise, and medications like insulin. Regular monitoring of blood sugar is essential.",
+      "post_admission_care": "Continue with your diabetes management plan as instructed by your doctor. Monitor blood sugar levels regularly and adjust medications as needed. Maintain a healthy diet and get regular exercise.",
+      "recommended_bedtype": "Normal bed"
+    },
+    {
+      "disease": "Normal Fever",
+      "treatment_options": "Focuses on reducing discomfort and promoting recovery. Medications like acetaminophen or ibuprofen can be used.  Rest and adequate hydration are crucial.",
+      "post_admission_care": "Monitor your temperature regularly. Maintain adequate hydration with fluids like water or broth. Rest and avoid strenuous activity until fever subsides.",
+      "recommended_bedtype": "Normal bed"
+    },
+    {
+      "disease": "Fever",
+      "treatment_options": "Similar to normal fever, but may involve additional medications or investigations depending on the severity and cause of the fever.",
+      "post_admission_care": "Follow specific instructions provided by your doctor based on the cause of the fever. Monitor temperature and maintain hydration. Rest is important for recovery.",
+      "recommended_bedtype": "Normal bed"
+    },
+    {
+      "disease": "Chest pain",
+      "treatment_options": "Depends on the cause of the chest pain. It may involve medications like pain relievers, oxygen therapy, or interventions specific to the underlying condition.",
+      "post_admission_care": "Follow doctor's instructions regarding medications and activity restrictions. Monitor for any worsening of chest pain or shortness of breath.",
+      "recommended_bedtype": "Ventilator bed" 
+    },
+    {
+      "disease": "Acute respiratory failure",
+      "treatment_options": "Focuses on supporting breathing with a ventilator or other respiratory support devices. Medications may be used to improve oxygenation and address the underlying cause.",
+      "post_admission_care": "Continue respiratory support as prescribed. Monitor for signs of improvement and potential complications. Rehabilitation may be needed to regain lung function.",
+      "recommended_bedtype": "Ventilator bed"
+    },
+    {
+      "disease": "Sepsis",
+      "treatment_options": "Requires immediate medical attention. Treatment involves antibiotics, intravenous fluids, and medications to improve blood pressure and organ function.",
+      "post_admission_care": "Close monitoring of vital signs and organ function. Supportive care to address complications. Long-term follow-up may be necessary.",
+      "recommended_bedtype": "ICU bed" 
+    },
+    {
+      "disease": "Chronic obstructive pulmonary disease (COPD)",
+      "treatment_options": "Aims to manage symptoms and prevent flare-ups. Medications like bronchodilators and inhalers are used.  Lifestyle modifications like smoking cessation are crucial.",
+      "post_admission_care": "Continue with prescribed medications and therapies. Manage triggers that worsen symptoms.  Pulmonary rehabilitation may be helpful.",
+      "recommended_bedtype": "Normal bed"
+    },
+    {
+      "disease": "Pneumonia",
+      "treatment_options": "Primarily involves antibiotics to fight the infection. Additional medications may be needed for cough, fever, or pain. Oxygen therapy may be necessary in some cases.",
+      "post_admission_care": "Additionally, ensuring adequate hydration and nutrition, along with mobilization to prevent complications, is essential. "
+    },
+  {
+    "disease": "Pneumonia",
+    "treatment_options": " Get adequate rest and maintain hydration.",
+    "post_admission_care": "Continue with antibiotics as prescribed. Monitor for improvement and report any worsening of symptoms. Get adequate rest and maintain hydration.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Asthma",
+    "treatment_options": "Focuses on controlling inflammation and preventing asthma attacks. Medications like inhalers and bronchodilators are used.  Identifying and avoiding triggers is important.",
+    "post_admission_care": "Continue with prescribed medications as instructed by your doctor.  Develop an action plan to manage asthma attacks.  Monitor symptoms and seek medical attention if breathing difficulties worsen.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Broken bone",
+    "treatment_options": "Treatment depends on the severity and location of the fracture. It may involve casting, splinting, or surgery to realign the bone fragments. Physiotherapy may be needed for rehabilitation.",
+    "post_admission_care": "Follow doctor's instructions regarding weight-bearing limitations and cast care. Attend physiotherapy sessions as prescribed. Monitor for signs of infection or pain worsening.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Hypertension (High Blood Pressure)",
+    "treatment_options": "Lifestyle modifications like diet and exercise are crucial. Medications may be prescribed to manage blood pressure effectively.",
+    "post_admission_care": "Continue with prescribed medications and lifestyle modifications as instructed by your doctor. Monitor blood pressure regularly and report any significant changes.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Appendicitis",
+    "treatment_options": "Typically involves surgical removal of the appendix to prevent complications. In some cases, antibiotics may be used for mild appendicitis.",
+    "post_admission_care": "Maintain pain management as prescribed. Gradually resume normal diet as tolerated. Monitor for signs of infection or worsening pain.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Kidney failure",
+    "treatment_options": "Depends on the severity and cause of kidney failure. May involve dialysis, medications, or kidney transplant. Dietary modifications are often necessary.",
+    "post_admission_care": "Adhere to prescribed treatment plan, including dialysis if needed. Follow dietary restrictions as instructed by your doctor. Monitor for any concerning symptoms and attend follow-up appointments.",
+    "recommended_bedtype": "ICU bed" 
+  },
+  {
+    "disease": "Internal bleeding",
+    "treatment_options": "Requires immediate medical attention to stop the bleeding and address the underlying cause. Surgery, blood transfusions, or medications may be used.",
+    "post_admission_care": "Close monitoring of vital signs and blood loss. Supportive care to address complications. Long-term follow-up may be necessary based on the cause of bleeding.",
+    "recommended_bedtype": "ICU bed"
+  },
+  {
+    "disease": "Head injury",
+    "treatment_options": "Depends on the severity of the head injury. May involve medications, surgery, or monitoring for potential complications.",
+    "post_admission_care": "Close monitoring of neurological function. Pain management and rehabilitation may be necessary. Follow-up appointments are crucial to monitor recovery.",
+    "recommended_bedtype": "ICU bed" 
+  },
+  {
+    "disease": "Spinal cord injury",
+    "treatment_options": "Focuses on preventing complications and maximizing potential for recovery. Surgery, medications, and rehabilitation are often involved.",
+    "post_admission_care": "Rigorous rehabilitation program to regain function. Management of complications like pressure sores and bladder dysfunction. Long-term support may be needed.",
+    "recommended_bedtype": "ICU bed" 
+  },
+
+
+  {
+    "disease": "Cancer",
+    "treatment_options": "Varies depending on the type and stage of cancer. May involve surgery, radiation therapy, chemotherapy, or a combination of these.",
+    "post_admission_care": "Follow-up care is crucial for monitoring and managing any side effects of treatment. Regular checkups and scans are important for early detection of recurrence.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Depression",
+    "treatment_options": "Often involves a combination of psychotherapy (talk therapy) and medication. Lifestyle changes like exercise and healthy sleep habits are also important.",
+    "post_admission_care": "Continue with therapy sessions and medications as prescribed. Participate in support groups and develop coping mechanisms for managing depression.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Anxiety",
+    "treatment_options": "Similar to depression, may involve psychotherapy, medication, or a combination of both. Relaxation techniques and stress management are helpful.",
+    "post_admission_care": "Continue with therapy sessions and medications as prescribed. Practice relaxation techniques and identify healthy ways to manage anxiety.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Covid",
+    "treatment_options": "Often involves supportive care at home, including rest, hydration, and fever management with medications like acetaminophen or ibuprofen.May require hospitalization with oxygen therapy, medications, and supportive care to manage complications.",
+    "post_admission_care": "Follow doctor's instructions regarding medications, isolation, and recovery. Monitor for any lingering symptoms and attend follow-up appointments.",
+    "recommended_bedtype": "ICU bed" 
+  },
+  {
+    "disease": "Dengue",
+    "treatment_options": "Focuses on supportive care to manage symptoms like fever, pain, and hydration.",
+    "post_admission_care": "Monitor for signs of worsening like severe abdominal pain or bleeding. Maintain hydration and rest. Follow-up is crucial to detect potential complications.Patients are advised to rest, stay hydrated, and take acetaminophen (paracetamol) to reduce fever and relieve pain. Avoid aspirin or nonsteroidal anti-inflammatory drugs (NSAIDs) as they can increase the risk of bleeding.",
+    "recommended_bedtype": "HICU bed"
+  },
+  {
+    "disease": "Malaria",
+    "treatment_options": "Treated with specific antimalarial medications to eliminate the parasite causing the infection.",
+    "post_admission_care": "Complete the prescribed course of antimalarial medication. Monitor for any recurrence of fever or chills and seek medical attention if needed.Stay hydrated by drinking plenty of fluids such as water, oral rehydration solutions, and clear soups.Maintain good nutrition with easily digestible foods.",
+    "recommended_bedtype": "ICU bed or Normal Bed based on severity"
+  },
+  {
+    "disease": "Typhoid",
+    "treatment_options": "Treated with antibiotics to eliminate the bacteria causing the infection or May require hospitalization with intravenous fluids, medications, and supportive care to manage complications.",
+    "post_admission_care": "Complete the prescribed course of antibiotics. Maintain hydration and a balanced diet as tolerated. Monitor for any worsening of symptoms.",
+    "recommended_bedtype": "HICU bed or Normal Bed based on severity" 
+  },
+  {
+    "disease": "Heart failure",
+    "treatment_options": "Aims to manage symptoms and improve heart function. May involve medications, lifestyle changes, or medical devices like pacemakers.",
+    "post_admission_care": "Continue with prescribed medications, dietary modifications, and exercise plan as instructed by your doctor. Monitor for symptoms and attend follow-up appointments.",
+    "recommended_bedtype": "HICU bed" 
+  },
+  {
+    "disease": "Accident",
+    "treatment_options": "Depends on the severity and type of injuries sustained. May involve surgery, medication, rehabilitation, or a combination of these.",
+    "post_admission_care": "Varies depending on the specific injuries. Pain management, physiotherapy, and occupational therapy may be needed. Follow-up care is crucial for monitoring recovery.",
+    "recommended_bedtype": "Depends on the injuries. May be normal bed, ventilator bed, or ICU bed based on severity."
+  },
+  {
+    "disease": "Heart operation",
+    "treatment_options": "Surgery to address the underlying heart condition. This may involve bypass surgery, valve replacement, or other procedures.",
+    "post_admission_care": "Close monitoring of vital signs and recovery from anesthesia. Pain management and medication adjustments as needed. Cardiac rehabilitation is often recommended.",
+    "recommended_bedtype": "ICU bed" 
+  },
+  {
+    "disease": "Lung operation",
+    "treatment_options": "Surgery to address the lung condition. This may involve removing a portion of lung tissue, repairing damage, or lung transplantation.",
+    "post_admission_care": "Close monitoring of breathing and respiratory function.  Chest physiotherapy may be needed to help clear mucus and improve lung function. Pain management is important.",
+    "recommended_bedtype": "Ventilator bed" 
+  },
+  {
+    "disease": "Kidney operation",
+    "treatment_options": "Surgery may involve kidney transplant, removal of a diseased kidney, or other procedures to address kidney problems.",
+    "post_admission_care": "Monitoring of kidney function, fluid balance, and medication adjustments as needed. Supportive care to address any complications. Follow-up is crucial for long-term management.",
+    "recommended_bedtype": "ICU bed"
+  },
+  {
+    "disease": "Pancreatitis",
+    "treatment_options": "Focuses on pain management, managing inflammation, and preventing complications. In severe cases, surgery may be necessary.",
+    "post_admission_care": "Maintain pain control and monitor for signs of improvement. Dietary modifications and intravenous fluids may be needed. Follow-up is important to prevent recurrence.",
+    "recommended_bedtype": "HICU bed" 
+  },
+  {
+    "disease": "Gallbladder surgery",
+    "treatment_options": "Surgery typically involves removal of the gallbladder. This can be done laparoscopically (minimally invasive) or with an open incision.",
+    "post_admission_care":  "Pain management and monitoring for recovery from anesthesia. Gradual return to a normal diet as tolerated. Follow-up is recommended to ensure proper healing.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Flu",
+    "treatment_options": "Antiviral medications can help shorten the duration of symptoms and reduce complications, especially for high-risk individuals. Treatment also focuses on relieving symptoms with rest, hydration, over-the-counter pain relievers (like acetaminophen or ibuprofen), and cough suppressants or expectorants.",
+    "post_admission_care": "Most cases of flu recover within a week with home care. Monitor for worsening symptoms like difficulty breathing, chest pain, or high fever. Get plenty of rest and fluids. Maintain good hygiene to prevent spreading the virus.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Strep Throat",
+    "treatment_options": "Penicillin or amoxicillin antibiotics are typically prescribed to eliminate the bacterial infection.  Pain relievers like acetaminophen or ibuprofen can help manage discomfort.",
+    "post_admission_care": "Complete the full course of antibiotics as prescribed, even if symptoms improve. Gargle with warm salt water for pain relief. Maintain good hydration and rest.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Ear Infection",
+    "treatment_options": "Antibiotics are the mainstay of treatment for bacterial ear infections. Pain relievers can help manage discomfort. In some cases, ear drops may be used.",
+    "post_admission_care": "Complete the full course of antibiotics even if symptoms improve. Apply warm compress to the affected ear for pain relief. Monitor for any worsening of symptoms or drainage.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Bronchitis",
+    "treatment_options": "Treatment focuses on relieving symptoms like cough, congestion, and wheezing. Bronchodilators, cough suppressants, expectorants, and pain relievers may be prescribed. In some cases, antibiotics are needed if the cause is bacterial.",
+    "post_admission_care": "Increase humidity in the air using a humidifier. Get plenty of rest and fluids. Monitor for worsening symptoms like fever or difficulty breathing. Follow up with your doctor as instructed.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Sinusitis",
+    "treatment_options": "Treatment focuses on relieving symptoms like congestion, facial pain, and headaches. Nasal decongestants, pain relievers, and nasal corticosteroids may be prescribed. Antibiotics are used if a bacterial infection is the cause.",
+    "post_admission_care": "Use saline nasal irrigation to clear congestion. Apply warm compress to the face for pain relief. Maintain hydration and get plenty of rest. Monitor for worsening symptoms or fever.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Gastroenteritis (Stomach Flu)",
+    "treatment_options": "Focuses on managing symptoms like diarrhea, vomiting, and dehydration. Oral rehydration solutions are crucial to replenish fluids and electrolytes. In severe cases, intravenous fluids may be needed.",
+    "post_admission_care": "Reintroduce bland foods gradually as tolerated.  Maintain hydration with fluids or oral rehydration solution. Monitor for signs of dehydration like dizziness or decreased urination. Seek medical attention if vomiting or diarrhea persists.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Sprain or Strain",
+    "treatment_options": "RICE therapy (Rest, Ice, Compression, Elevation) is the first line of treatment. Pain relievers like ibuprofen or acetaminophen can help manage discomfort. Physical therapy may be recommended for rehabilitation.",
+    "post_admission_care": "Follow the RICE principle for reducing inflammation and pain. Use crutches or a sling as instructed by your doctor. Physical therapy exercises should be performed regularly to regain strength and mobility.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Fracture",
+    "treatment_options": "Treatment depends on the severity and location of the fracture. It may involve casting, splinting, or surgery to realign the bone fragments. Physiotherapy is often needed for rehabilitation.",
+    "recommended_bedtype": "Normal bed" 
+  },
+  {
+    "disease": "Skin Cancer",
+    "treatment_options": "Varies depending on the type and stage of skin cancer. Treatment options include surgery, radiation therapy, chemotherapy, or a combination of these.",
+    "post_admission_care": "Care instructions depend Varies depending on the type and stage of skin cancer. Treatment options include surgery, radiation therapy, chemotherapy, or a combination of these.",
+    "post_admission_care": "Care instructions depend on the specific treatment received. Wound care, pain management, and follow-up appointments are crucial. Monitor for any signs of infection or recurrence.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Arthritis",
+    "treatment_options": "Focuses on managing pain, inflammation, and improving joint function.  May involve medications, physical therapy, lifestyle modifications, or joint injections.",
+    "post_admission_care": "Continue with prescribed medications, physiotherapy exercises, and lifestyle changes as instructed by your doctor. Use pain management strategies like heat or cold therapy. Regular follow-up appointments are important.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Chronic Obstructive Pulmonary Disease (COPD) (mentioned previously)",
+    "treatment_options": "... (refer to previous entry for COPD)",
+    "post_admission_care": "... (refer to previous entry for COPD)",
+    "recommended_bedtype": "ICU bed"
+  },
+  {
+    "disease": "Sleep Apnea",
+    "treatment_options": "CPAP (Continuous Positive Airway Pressure) therapy is a common treatment that uses a mask to deliver constant air pressure to keep airways open during sleep. Other options include lifestyle modifications or surgery in some cases.",
+    "post_admission_care": "Regular use of CPAP machine as prescribed. Maintain a healthy weight and sleep schedule. Follow-up appointments are important to monitor treatment effectiveness.",
+    "recommended_bedtype": "Ventilator bed"
+  },
+  {
+    "disease": "Fibromyalgia",
+    "treatment_options": "Medications, physical therapy, and cognitive behavioral therapy can help manage pain, fatigue, and sleep problems associated with fibromyalgia.",
+    "post_admission_care": "Continue with prescribed medications, exercise programs, and relaxation techniques. Maintain healthy sleep habits and stress management strategies. Regular follow-up appointments are important.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Cataract",
+    "treatment_options": "Surgery is the only effective treatment for cataracts.  A cloudy lens is removed and replaced with an artificial lens implant.",
+    "post_admission_care": "Use prescribed eye drops to prevent infection and inflammation. Wear protective eyewear as instructed by your doctor. Avoid strenuous activity that could strain the eye. Follow-up appointments are crucial to monitor healing.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Glaucoma",
+    "treatment_options": "Aims to lower eye pressure and prevent optic nerve damage.  May involve prescription eye drops, medications, laser treatment, or surgery.",
+    "post_admission_care": "Continue with prescribed medications or eye drops as instructed by your doctor. Regular eye exams are necessary to monitor pressure and progression of glaucoma.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Thyroid",
+    "treatment_options": "Depends on the specific thyroid condition (overactive or underactive).  May involve medications, radioactive iodine treatment, or surgery.",
+    "post_admission_care": "Continue with prescribed medications as instructed by your doctor. Regular blood tests are needed to monitor thyroid hormone levels and adjust medications as needed.",
+    "recommended_bedtype": "Normal bed" 
+  },
+  {
+    "disease": "Peptic Ulcer",
+    "treatment_options": "Medications that reduce stomach acid production and promote healing are the mainstay of treatment. Lifestyle modifications like diet changes and stress management are also important.",
+    "post_admission_care": "Continue with prescribed medications and follow a bland diet as instructed by your doctor. Avoid smoking, alcohol, and irritants that can worsen ulcers. Regular follow-up appointments are important.",
+    "recommended_bedtype": "Normal bed"
+  },
+  {
+    "disease": "Irritable Bowel Syndrome (IBS)",
+    "treatment_options": "Focuses on managing symptoms like diarrhea, constipation, abdominal pain, and bloating.  May involve dietary modifications, medications, and stress management techniques.",
+        "post_admission_care": "Continue with dietary recommendations and medications as instructed by your doctor. Manage stress through relaxation techniques or therapy. Maintain a regular sleep schedule and exercise routine. Follow-up appointments are important to monitor symptoms and adjust treatment as needed.",
+        "recommended_bedtype": "Normal bed"
+      },
+      {
+        "disease": "Seizure Disorder (Epilepsy)",
+        "treatment_options": "Anti-seizure medications are the mainstay of treatment to control seizures. Identifying and avoiding seizure triggers is also important.",
+        "post_admission_care": "Continue with prescribed medications as instructed by your doctor. Maintain a seizure diary to track seizure activity and identify potential triggers. Regular follow-up appointments are crucial to monitor medication effectiveness and potential side effects.",
+        "recommended_bedtype": "HICU bed"
+      },
+      {
+        "disease": "Parkinson's Disease",
+        "treatment_options": "Medications can help manage symptoms like tremors, rigidity, and difficulty with movement.  Physical therapy, occupational therapy, and speech therapy may also be beneficial.",
+        "post_admission_care": "Continue with prescribed medications and therapy programs as instructed by your doctor. Maintaining a healthy lifestyle with regular exercise and a balanced diet is important. Regular follow-up appointments are necessary to monitor symptoms and adjust treatment as needed.",
+        "recommended_bedtype": "Normal bed"
+      },
+      {
+        "disease": "Alzheimer's Disease",
+        "treatment_options": "Medications can help manage symptoms like memory loss, confusion, and behavioral changes. However, there is no cure for Alzheimer's disease.",
+        "post_admission_care": "Focus on providing a safe and supportive environment for the patient. Maintaining a routine and familiar surroundings can be helpful. Medications should be continued as prescribed by the doctor. Regular follow-up appointments are important to monitor disease progression and manage symptoms.",
+        "recommended_bedtype": "Normal bed" 
+      }
+    ]
